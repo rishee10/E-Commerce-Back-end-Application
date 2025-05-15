@@ -37,7 +37,7 @@ This is the backend of an E-commerce platform developed using **Java Spring Boot
 
 ### Prerequisites
 
-- Java 17 or later
+- Java 
 - Maven
 - MySQL or any other relational database
 - Stripe account for payment integration
