@@ -52,6 +52,8 @@ This is the backend of an E-commerce platform developed using **Java Spring Boot
    ``` bash
    cd E-Commerce-Back-end-Application
 
+   cd E-commerce Back-end
+
 3. **Set up the database** :
    Create a MySQL database (or use any relational DB of your choice).
 
