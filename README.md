@@ -85,7 +85,7 @@ This is the backend of an E-commerce platform developed using **Java Spring Boot
    ``` http://localhost:8080 ```
 
 
-## 🧪 API Example Flow
+## API Example Flow
 
 Here’s a step-by-step guide to using the API:
 
