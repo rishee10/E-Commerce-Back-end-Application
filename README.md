@@ -46,11 +46,11 @@ This is the backend of an E-commerce platform developed using **Java Spring Boot
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/your-ecommerce-backend.git
+   git clone https://github.com/rishee10/E-Commerce-Back-end-Application.git
    
 2. **Navigate to the project folder** :
    ``` bash
-   cd your-ecommerce-backend
+   cd E-Commerce-Back-end-Application
 
 3. **Set up the database** :
    Create a MySQL database (or use any relational DB of your choice).
